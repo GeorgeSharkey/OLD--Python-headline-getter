@@ -170,7 +170,7 @@ for i in nyt_headline:
 print("""<!DOCTYPE html>
 <br>
 <link rel="stylesheet" href="./CSS/default.css">
-<h1> NEWS </h1>
+<h1> <u> WORLD NEWS </u> </h1>
 <br>
 <p1> CNN: </p1>
 <br>
